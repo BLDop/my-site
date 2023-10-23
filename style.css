@@ -28,13 +28,13 @@ color: #C78C19;
 text-decoration: underline;
 }
 .produtos {
-width: 940px;
+width: 540px;
 margin: 0 auto;
 padding: 50px 0;
 }
 .produtos li {
 display: inline-block;
-text-align: right;
+text-align: center;
 width: 30%;
 vertical-align: top;
 margin: 0 1.5%;
